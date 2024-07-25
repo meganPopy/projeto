@@ -7,3 +7,4 @@ const novaOperacao = primeiroNumero/numeroPontoFlutuante;
 
 Math.round (0.3030303030);
 console.log(novaOperacao);
+console.log(Math.round);
