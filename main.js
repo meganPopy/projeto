@@ -5,4 +5,5 @@ const pontoFlutuanteSemZero = .5;
 
 const novaOperacao = primeiroNumero/numeroPontoFlutuante; 
 
+Math.round(novaOperacao);
 console.log(novaOperacao);
