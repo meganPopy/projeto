@@ -9,7 +9,7 @@ console.log(novaOperacao);
 
 console.log (Math.round (17.0454540));
 
-console.log (Math.round (17.4454540));*/
+console.log (Math.round (17.4454540));
 
 var idade = 16;
 
@@ -18,7 +18,7 @@ if (idade > 18) {
 } else if (idade >= 15) {
     console.log("ele só pode viajar sozinho com autorização");
 } else {
-    console.log("ele nao pode viajar");
+    console.log("ele nao pode viajar");*/
 }
 
 const estudantes ={
