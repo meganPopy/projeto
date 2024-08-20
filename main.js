@@ -20,3 +20,16 @@ if (idade > 18) {
 } else {
     console.log("ele nao pode viajar");
 }
+
+const estudantes ={
+    nome: "Ana",
+    turma: 3, 
+    disciplinas: ["matemática", "português", "fisica", "história"], 
+    nota:[7.8, 6.3, 5, 9],
+}
+
+estudantes.nota[1];
+estudantes.nota[1];
+estudantes.disciplinas[1];
+estudantes.disciplinas[2];
+estudantes.disciplinas[3];
