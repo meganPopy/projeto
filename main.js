@@ -39,4 +39,4 @@ const area = largura * altura;
 return area
 }
 const areaRetangulo = area (5, 10);
-console.log (areaRetangulo)
+console.log (area);
