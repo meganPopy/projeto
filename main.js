@@ -34,7 +34,7 @@ estudantes.disciplinas[1];
 estudantes.disciplinas[2];
 estudantes.disciplinas[3]; */
 
-function areaRetangulo (largura , altura){
+function calculaAreaRetangulo (largura , altura){
 const area = largura * altura; 
 return area
 }
