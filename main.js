@@ -38,7 +38,7 @@ function areaRetangulo (largura , altura){
 const area = largura * altura; 
 return area
 }
-const areaRetangulo = area (5, 10);
+const area = areaRetangulo (5, 10);
 console.log (area); 
 
 /*function calcularAreaRetangulo(largura, altura) {
