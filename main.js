@@ -32,18 +32,18 @@ estudantes.nota[1];
 estudantes.nota[1];
 estudantes.disciplinas[1];
 estudantes.disciplinas[2];
-estudantes.disciplinas[3]; 
+estudantes.disciplinas[3]; */
 
 function calculaAreaRetangulo (largura , altura){
 const area = largura * altura; 
 return area
 }
 const areaRetangulo = area (5, 10);
-console.log (area); */
+console.log (area); 
 
-function calcularAreaRetangulo(largura, altura) {
+/*function calcularAreaRetangulo(largura, altura) {
     return largura * altura;
 }
 
 const area = calcularAreaRetangulo(5, 10);
-console.log("Área do retângulo:", area);
+console.log("Área do retângulo:", area);*/
