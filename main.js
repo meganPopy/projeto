@@ -33,3 +33,10 @@ estudantes.nota[1];
 estudantes.disciplinas[1];
 estudantes.disciplinas[2];
 estudantes.disciplinas[3];
+
+function areaRetangulo (largura e altura){
+const areaRetangulo = largura 8 altura; 
+return area
+}
+const areaRetangulo = area(5, 10);
+console.log (areaRetangulo)
