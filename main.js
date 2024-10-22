@@ -45,6 +45,5 @@ function calcularAreaRetangulo(largura, altura) {
     return largura * altura;
 }
 
-// Exemplo de uso:
 const area = calcularAreaRetangulo(5, 10);
 console.log("Área do retângulo:", area);
