@@ -18,7 +18,7 @@ if (idade > 18) {
 } else if (idade >= 15) {
     console.log("ele só pode viajar sozinho com autorização");
 } else {
-    console.log("ele nao pode viajar");*/
+    console.log("ele nao pode viajar");
 }
 
 const estudantes ={
@@ -32,7 +32,7 @@ estudantes.nota[1];
 estudantes.nota[1];
 estudantes.disciplinas[1];
 estudantes.disciplinas[2];
-estudantes.disciplinas[3];
+estudantes.disciplinas[3]; */
 
 function areaRetangulo (largura , altura){
 const areaRetangulo = largura * altura; 
